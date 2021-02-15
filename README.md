@@ -10,4 +10,4 @@ My small projects:
 - [tree-sitter-jas](https://github.com/AlexPl292/tree-sitter-jas): Jas grammar for tree-sitter. Jas (or IJVM) is an assembly language for MIC-1 processor.
 
 My small contributions:
-- [grammers](https://github.com/Lonami/grammers): 2FA for Telegram API library in rust.
+- [grammers](https://github.com/Lonami/grammers): 2FA and photos loading for Telegram API library in rust.
