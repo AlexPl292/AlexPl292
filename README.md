@@ -4,6 +4,7 @@ I maintain [IdeaVim](https://github.com/JetBrains/ideavim) and develop [IntelliJ
 
 My small projects:
 - [tg_backup](https://github.com/AlexPl292/tg_backup): Backup your messages from the Telegram messenger.
+- [tlrd-pages plugin for JetBrains IDEs](https://github.com/AlexPl292/tldr-intellij): Integration of [tldr-pages](https://tldr.sh/) into IntelliJ IDEA, PyCharm, etc.
 - [mark-down-to-slack](https://github.com/AlexPl292/mark-down-to-slack): Converter from Markdown (GitHub/CommonMark) to Slack-specific markdown for java.
 - [fpfs](https://github.com/AlexPl292/fpfs): FUSE filesystem based on telegram and written in rust.
 - [Kaleidoscope-Kotlin-Llvm](https://github.com/AlexPl292/Kaleidoscope-Kotlin-Llvm): An implementation of the Kaleidoscope language using LLVM and Kotlin/Native.
